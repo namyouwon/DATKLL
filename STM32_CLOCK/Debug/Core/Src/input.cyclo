@@ -1,0 +1,5 @@
+input.c:19:6:IN_Init	1
+input.c:26:6:IN_ReadButton	6
+input.c:40:10:IN_Stick	1
+input.c:45:9:IN_IsPressed	2
+input.c:51:9:IN_IsPressed_ms	2

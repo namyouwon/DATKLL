@@ -1,0 +1,15 @@
+lcd_i2c.c:18:13:Delay	1
+lcd_i2c.c:134:13:WriteI2C	3
+lcd_i2c.c:162:6:CLCD_Init	3
+lcd_i2c.c:208:6:SetCursor	5
+lcd_i2c.c:232:6:UpdateCharBuffer	1
+lcd_i2c.c:237:6:CLCD_PrintCharBuffer	1
+lcd_i2c.c:243:6:CLCD_PrintStringBuffer	2
+lcd_i2c.c:251:6:CLCD_PrintNumBuffer	7
+lcd_i2c.c:291:6:CLCD_PrintFloatBuffer	2
+lcd_i2c.c:311:6:CLCD_ClearBuffer	2
+lcd_i2c.c:317:6:CLCD_DisplayScreen	3
+lcd_i2c.c:329:6:CLCD_CreateChar	2
+lcd_i2c.c:339:6:CLCD_InitBigDigit	1
+lcd_i2c.c:349:6:CLCD_PrintBigDigitBuffer	11
+lcd_i2c.c:488:6:CLCD_PrintBigNumBuffer	2

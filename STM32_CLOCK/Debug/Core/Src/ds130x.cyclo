@@ -1,0 +1,6 @@
+ds130x.c:14:9:BCD2DEC	1
+ds130x.c:22:9:DEC2BCD	1
+ds130x.c:30:6:DS_Init	1
+ds130x.c:35:6:DS_Write	1
+ds130x.c:40:9:DS_Read	1
+ds130x.c:48:6:DS_SetupTimForFirstProgram	2

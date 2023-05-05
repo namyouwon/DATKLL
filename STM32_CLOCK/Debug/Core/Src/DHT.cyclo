@@ -1,0 +1,9 @@
+DHT.c:14:6:Delay_us	2
+DHT.c:19:6:SetPinIn	1
+DHT.c:29:6:SetPinOut	1
+DHT.c:40:13:WritePin	1
+DHT.c:44:16:ReadPin	1
+DHT.c:49:6:DHT_Init	1
+DHT.c:61:6:DHT_Read	12
+DHT.c:124:7:DHT_GetTemp	1
+DHT.c:128:7:DHT_GetHumi	1

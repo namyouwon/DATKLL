@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BUZZER_EN Pin=SW3-3
+Added Pin To Net: NetName=BUZZER_EN Pin=SW3-4
+Added Member To Class: ClassName=Sheet1 Member=Component R3 4.7k
+Added Room: Name=Sheet1

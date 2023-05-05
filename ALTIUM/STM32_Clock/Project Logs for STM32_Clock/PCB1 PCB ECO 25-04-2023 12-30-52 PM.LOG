@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Y1 Old Footprint=Crystal HC49US SMD New Footprint=Crystal DIP-2
+Change Component Footprint: Designator=U3 Old Footprint=SOIC-16 New Footprint=SOIC127P1032X265-16N
+Change Component Designator: OldDesignator=DEC NewDesignator=SW2
+Change Component Designator: OldDesignator=INC NewDesignator=SW0
+Change Component Designator: OldDesignator=MODE NewDesignator=SW1

@@ -1,0 +1,2 @@
+output.c:13:6:OUT_Init	1
+output.c:20:6:OUT_SetBuzzer	2

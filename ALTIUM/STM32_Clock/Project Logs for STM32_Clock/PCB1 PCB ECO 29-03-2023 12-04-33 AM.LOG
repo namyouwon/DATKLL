@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=NetC?_1 Pin=LCD-1
+Removed Pin From Net: NetName=+5 Pin=LCD-2
+Removed Pin From Net: NetName=NetC?_1 Pin=LCD-15
+Removed Pin From Net: NetName=GND Pin=LCD-16
+Removed Member From Class: ClassName=Sheet1 Member=LCD
+Added Component: Designator=LCD?(LCD 16x2)
+Added Pin To Net: NetName=NetC?_1 Pin=LCD?-1
+Added Pin To Net: NetName=+5 Pin=LCD?-2
+Added Pin To Net: NetName=NetC?_1 Pin=LCD?-15
+Added Pin To Net: NetName=GND Pin=LCD?-16
+Added Pin To Net: NetName=NetLCD?_3 Pin=LCD?-3
+Added Pin To Net: NetName=NetLCD?_3 Pin=VR-2
+Added Net: Name=NetLCD?_3
+Added Pin To Net: NetName=NetLCD?_4 Pin=LCD?-4
+Added Pin To Net: NetName=NetLCD?_4 Pin=U3-4
+Added Net: Name=NetLCD?_4
+Added Pin To Net: NetName=NetLCD?_5 Pin=LCD?-5
+Added Pin To Net: NetName=NetLCD?_5 Pin=U3-5
+Added Net: Name=NetLCD?_5
+Added Pin To Net: NetName=NetLCD?_6 Pin=LCD?-6
+Added Pin To Net: NetName=NetLCD?_6 Pin=U3-6
+Added Net: Name=NetLCD?_6
+Added Pin To Net: NetName=NetLCD?_11 Pin=LCD?-11
+Added Pin To Net: NetName=NetLCD?_11 Pin=U3-9
+Added Net: Name=NetLCD?_11
+Added Pin To Net: NetName=NetLCD?_12 Pin=LCD?-12
+Added Pin To Net: NetName=NetLCD?_12 Pin=U3-10
+Added Net: Name=NetLCD?_12
+Added Pin To Net: NetName=NetLCD?_13 Pin=LCD?-13
+Added Pin To Net: NetName=NetLCD?_13 Pin=U3-11
+Added Net: Name=NetLCD?_13
+Added Pin To Net: NetName=NetLCD?_14 Pin=LCD?-14
+Added Pin To Net: NetName=NetLCD?_14 Pin=U3-12
+Added Net: Name=NetLCD?_14
+Added Member To Class: ClassName=Sheet1 Member=Component LCD? LCD 16x2

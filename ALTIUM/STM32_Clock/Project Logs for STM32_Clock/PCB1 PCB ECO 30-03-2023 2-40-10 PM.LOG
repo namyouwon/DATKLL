@@ -1,0 +1,13 @@
+Change Component Footprint: Designator=DEC Old Footprint=SW/4/DIP 12x12x7 New Footprint=SW/4/SMD/SMALL
+Change Component Footprint: Designator=INC Old Footprint=SW/4/DIP 12x12x7 New Footprint=SW/4/SMD/SMALL
+Change Component Footprint: Designator=MODE Old Footprint=SW/4/DIP 12x12x7 New Footprint=SW/4/SMD/SMALL
+Change Component Designator: OldDesignator=DEC NewDesignator=SW0
+Change Component Designator: OldDesignator=INC NewDesignator=SW2
+Change Component Designator: OldDesignator=MODE NewDesignator=SW1
+Change Component Designator: OldDesignator=VR NewDesignator=VR1
+Added Member To Class: ClassName=Sheet1 Member=Component R3 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component SW0 Tact Switch
+Added Member To Class: ClassName=Sheet1 Member=Component SW1 Tact Switch
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 Tact Switch
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 5k
+Added Room: Name=Sheet1

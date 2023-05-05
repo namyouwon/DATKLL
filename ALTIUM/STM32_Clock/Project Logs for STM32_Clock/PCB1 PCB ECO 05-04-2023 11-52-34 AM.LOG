@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5 Pin=BUZZER-1
+Removed Pin From Net: NetName=+5 Pin=D2-1
+Removed Pin From Net: NetName=+5 Pin=P1-1
+Removed Pin From Net: NetName=+5 Pin=R0-2
+Removed Pin From Net: NetName=+5 Pin=R1-2
+Removed Pin From Net: NetName=+5 Pin=R2-2
+Removed Pin From Net: NetName=+5 Pin=R14-1
+Removed Pin From Net: NetName=BUZZER Pin=U1-20
+Added Pin To Net: NetName=BUZZER Pin=U1-25
+Added Pin To Net: NetName=3V3 Pin=BUZZER-1
+Added Pin To Net: NetName=3V3 Pin=D2-1
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=3V3 Pin=R0-2
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-2
+Added Pin To Net: NetName=3V3 Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Net: Name=3V3

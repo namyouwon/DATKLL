@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetLCD_15 Pin=LCD-15
+Added Pin To Net: NetName=NetLCD_15 Pin=Q1-3
+Added Net: Name=NetLCD_15
+Added Room: Name=Sheet1

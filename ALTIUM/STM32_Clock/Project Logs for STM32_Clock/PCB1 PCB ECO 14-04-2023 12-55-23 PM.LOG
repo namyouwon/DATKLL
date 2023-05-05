@@ -1,0 +1,14 @@
+Added Component: Designator=LCD(LCD 16x2)
+Added Pin To Net: NetName=GND Pin=LCD-1
+Added Pin To Net: NetName=+5 Pin=LCD-2
+Added Pin To Net: NetName=NetLCD_3 Pin=LCD-3
+Added Pin To Net: NetName=NetLCD_4 Pin=LCD-4
+Added Pin To Net: NetName=NetLCD_5 Pin=LCD-5
+Added Pin To Net: NetName=NetLCD_6 Pin=LCD-6
+Added Pin To Net: NetName=NetLCD_11 Pin=LCD-11
+Added Pin To Net: NetName=NetLCD_12 Pin=LCD-12
+Added Pin To Net: NetName=NetLCD_13 Pin=LCD-13
+Added Pin To Net: NetName=NetLCD_14 Pin=LCD-14
+Added Pin To Net: NetName=NetLCD_15 Pin=LCD-15
+Added Pin To Net: NetName=GND Pin=LCD-16
+Added Member To Class: ClassName=Sheet1 Member=Component LCD LCD 16x2
